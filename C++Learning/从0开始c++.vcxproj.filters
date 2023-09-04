@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="内存池.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="重载括号运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="重载一元运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="自动转换类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="转换函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="继承x.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="demo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="构造基类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="名字遮掩与作用域.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="继承的特殊关系.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多继承与虚继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多态的基本概念.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多态的应用场景.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="析构派生类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="纯虚函数和抽象类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="运行阶段类型识别dynamic_cast.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="typeid运算符和type_info.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="自动推导类型auto.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="自动推导类型auto关键字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数模板的基本概念.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数模板的注意事项.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数模板的具体化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数模板的具体化plus.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数模板分文件编写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="public.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数模板高级.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数模板高级02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类的基本概念.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类的示例栈.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类的示例栈plus.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类的示例-数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类的示例-变长数组vector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="嵌套和递归适用模板类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类具体化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类与继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类与继承01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类与继承02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类与继承03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类与继承04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类与函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类与函数01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类与友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类与友元01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类与友元02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板类的成员模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="将模板类用作参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="编译预处理.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="编译预处理01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="编译与链接.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tools.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="girls.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c++命名空间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="public1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="public2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c++类型转换static_cast.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c++类型转换reinterpret_cast.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c++类型转换const_cast.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string容器基础.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string容器的操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string容器存放结构体数据.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vector学习.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vector学习01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vector容器学习02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vector容器学习03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="迭代器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="迭代器01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="迭代器02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="基于范围的for循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="list容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="list容器01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="list容器02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pair键值对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="map容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="map容器01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="map容器02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="map容器03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="map容器04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unordered_map容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unordered_map容器01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unordered_map容器02pp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unordered_map容器03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unordered_map容器04pp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unordered_map容器05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unordered_map容器06pp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="queue容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL算法find_if.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL算法01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unique_ptr智能指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unique_ptr智能指针01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unique_ptr智能指针02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unique_ptr智能指针03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shared_ptr智能指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="删除器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shared_ptr存在的问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="异常.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="异常01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c++断言.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c++11新标准.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C++11标准01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="委托构造.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="继承构造.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lambda函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lambda函数01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lambda函数02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="右值与左值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="移动语义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="完美转发.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="可变参数模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="时间操作chrono库.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="时间操作chrono库01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="时间操作chrono库02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="创建线程.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="this_thread的全局函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="call_once函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="线程安全.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="线程安全01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="互斥锁.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归互斥锁.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lock_guard类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="生产者_消费者.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="原子类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="原子类型01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="可调用对象.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="可调用函数对象01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="可调用对象02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="包装器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="适配器bind.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="适配器bind01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="可变函数和参数的实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="回调函数的实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="如何取代虚函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="public.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="boy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="girl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tools.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="girls.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="public1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="public2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
